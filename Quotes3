@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+
+<head>
+
+<title> Quotes&nbsp;&#183;&nbsp;Rohit Muley </title>
+
+<link href="./style.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="script.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+
+</head>
+
+<body>
+      
+<header>
+
+<nav>
+      <div class="sectionlinks">
+	      
+	<a href="https://rohitjmweb.github.io/">Home&nbsp&nbsp</a>
+     
+	<a href="https://rohitjmweb.github.io/About/">About&nbsp&nbsp</a>
+      
+     	<a href="https://rohitjmweb.github.io/Essays/">Essays&nbsp&nbsp</a>
+
+      	<a href="https://rohitjmweb.github.io/Ideas/">Ideas&nbsp&nbsp</a>
+
+      <!--	<a href="https://rohitjmweb.github.io/Quotes/">Quotes&nbsp&nbsp</a> -->
+	      
+	<a id="myLink" title="Quotes I Like"
+         href="javascript:void(0)" onclick="openStuff();return false;">Quotes&nbsp&nbsp</a>
+
+	<a href="https://rohitjmweb.github.io/Bookshelf/">Bookshelf&nbsp&nbsp</a>
+	      
+	<a href="https://rohitjmweb.github.io/Projects/">Projects&nbsp&nbsp</a>
+	      
+	<a href="https://rohitjmweb.github.io/Now/">Now&nbsp&nbsp</a>
+	      
+      
+       </div>
+
+    </nav>
+      
+     
+
+<div id="left">&nbsp;</div>	     
+<div id="content">
+  <h1 style="text-align:center">Quotes</h1>
+
+<div id="more">	
+  <a title="Click for More" href="javascript:void(0)" onclick="openStuff();return false;">More</a>
+  </div>
+
+ <br><br>
+
+
+  <p >In the Beginner's Mind, there are many possibilities, but in the expert's there are but few.<br>
+  ~ Shunryu Suzuki, Zen Mind Beginner's Mind
+  </p>
+  <br>
+
+
+  <p >If you have more than one reason to do something (choose a doctor or a veternarian, hire a gardener or an employee, 
+  marry a person, go on a trip), just don't do it. It doesn't mean that one reason is better than two, just that by invoking more tham one reason you
+  are trying to convince yourself to do something. Obvious decisions (robust to error) require no more than a single reason.<br>
+  ~ Nassim Nicholas Taleb
+  </p>
+  <br>
+	
+<p>Don't tell me it is impossible, tell me you can't do it. Tell me it's never been done. The only things we really know are Maxwell's equations, 
+the three laws of Newton, the two postulates of relativity, and the periodic table. That's all we know that's true. All the rest are man's laws. <br>
+~ Dean Kamen(Segway)
+</p>
+<br>
+	
+ <p >A man who mistakes secrets for knowledge is like a man who, seeking light, hugs a candle so closely that he smothers it and burns his hand.<br>
+  ~ Rootless Root: The Unix Koans of Master Foo
+  </p>
+  <br>
+<br>
+
+<div id="more">	
+  <a title="Click for More" href="javascript:void(0)" onclick="openStuff();return false;">More</a>
+  </div>
+	
+<br><br>
+ 
+
+</div>
+	
+</header>
+  
+</body>
+
+</html>
